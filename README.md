@@ -1,6 +1,6 @@
 # HYPERAKTIV
 
-HYPERAKTIV is a public dataset containing health, activity, andheart rate data from adult patients diagnosed with attention deficithyperactivity disorder, better known as ADHD. The dataset con-sists of data collected from 51 patients with ADHD and 52 clinicalcontrols. In addition to the activity and heart rate data, we alsoinclude a series of patient attributes such as their age, sex, andinformation about their mental state, as well as output data from acomputerized neuropsychological test.
+HYPERAKTIV is a public dataset containing health, activity, andheart rate data from adult patients diagnosed with attention deficit hyperactivity disorder, better known as ADHD. The dataset consists of data collected from 51 patients with ADHD and 52 clinicalcontrols. In addition to the activity and heart rate data, we also include a series of patient attributes such as their age, sex, and information about their mental state, as well as output data from a computerized neuropsychological test.
 
 The dataset can be downlaoded at the following link: [https://osf.io/3agwr/](https://osf.io/3agwr/)
 
