@@ -12,11 +12,9 @@ This repository contains scritps that may be used to reproduce the experiments p
 The `predict_adhd.py` script contains the following command-line arguments: 
 
 ```
-Usage: predict_adhd [OPTIONS]
+Usage: predict_adhd
 
-  Script that runs the baseline experiments.
-
-  Written by Steven Hicks.
+Script that runs the baseline experiments.
 
 Options:
   -x, --x-file-path               Full path to the extracted features (features.csv).
