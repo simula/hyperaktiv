@@ -12,7 +12,7 @@ This repository contains scritps that may be used to reproduce the experiments p
 The `predict_adhd.py` script contains the following command-line arguments: 
 
 ```
-Usage: predict_adhd
+Usage: predict_adhd.py
 
 Script that runs the baseline experiments.
 
