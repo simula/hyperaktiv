@@ -28,6 +28,8 @@ Options:
 <!-- ## Cite
 If you use this dataset in your research, Please cite the following paper: -->
 
+As stated in the paper, the experiments were performed with an additional 31 healthy controls taken from our previously published dataset [Psykose](https://datasets.simula.no/psykose/). This slighly modified version of the dataset can be found at the following link: https://drive.google.com/file/d/1z7TX3XO0yRcS4kylrhy91jFaK6kqZjq0/view?usp=sharing
+
 ## Terms of Use
 The data is released fully open for research and educational purposes. The use of the dataset for purposes such as competitions and commercial purposes needs prior written permission.
 <!-- In all documents and papers that use or refer to the dataset or report experimental results based on HYPERAKTIV, a reference to the related article needs to be added: XXX. -->
