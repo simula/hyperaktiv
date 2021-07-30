@@ -6,6 +6,27 @@ This repository is structured as follows. The experiments directory contains the
 
 The dataset can be downlaoded at the following link: [https://osf.io/3agwr/](https://osf.io/3agwr/)
 
+## Script Usage
+This repository contains scritps that may be used to reproduce the experiments presented in the paper. This can be done by either using the notebook included in `notebook` or by using the Pything script `predict_adhd.py` located in `experiments`.
+
+The `predict_adhd.py` script contains the following command-line arguments: 
+
+```
+Usage: predict_adhd [OPTIONS]
+
+  Script that runs the baseline experiments.
+
+  Written by Steven Hicks.
+
+Options:
+  -x, --x-file-path               Full path to the extracted features (features.csv).
+  -y, --y-file-path               Full path to the ground truth (patient_info.csv).
+  -o, --output-file-path          Path to the file where the results will be written.
+  -k, --k-folds                   The number folds used for cross-validation (training and validation).
+  -t, --test-ratio                The ratio between the trainnig and testing data split.
+  -s, --random-seed               The seed used to generate random numbers.
+```
+
 <!-- ## Cite
 If you use this dataset in your research, Please cite the following paper: -->
 
